@@ -693,6 +693,9 @@ textarea:focus{
     .bars{
         display: block;
     }
+    .bar-link{
+        color: black;
+    }
     .nav-logo{
         display: none;
     }
